@@ -1,3 +1,10 @@
-### 👋 _Hello There!_
+# 👋 Hello There!
 
 📌 https://sphyxdev.github.io/
+
+---
+
+## What Am I Up To?
+🎮 Game Dev (Unity & C#)
+
+🌐 Web Dev (React, JS, HTML, CSS)
