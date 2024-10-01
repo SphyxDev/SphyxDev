@@ -1,14 +1,22 @@
 # 👋 Hello There!
 
-📌 https://sphyxdev.github.io/
+📌 Personal website: https://sphyxdev.github.io/
+
+📌 Itch.io: https://sphyxdev.itch.io/
 
 ---
 
 ## What Am I Up To?
-🎮 Game Dev (Unity & C#)
+🎮 Game Dev (Godot Engine 💙, Unity)
 
-🌐 Web Dev (React, JS, HTML, CSS)
+🌐 Web Dev (React, JavaScript, HTML, CSS)
 
-🎨 Art & Design (Aseprite, Inkscape, Blender)
+🎶 Music & Sound Design (Reaper)
 
-🎶 Music (Reaper)
+👨‍🎨 Pixel Art (Aseprite)
+
+👨‍💻 Other Programming Projects (Python, C#)
+
+🎨 Graphic Design (Inkscape)
+
+🧊 3D Modeling (Blender)
