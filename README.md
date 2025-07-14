@@ -7,16 +7,13 @@
 ---
 
 ## What Am I Up To?
-🎮 Game Dev (Godot Engine 💙, Unity)
 
-🌐 Web Dev (React, JavaScript, HTML, CSS)
+🎮 Game Dev (Godot - GDScript, Unity - C#)\
+🌐 Web Dev (React, JavaScript, HTML, CSS)\
+👨‍💻 Other Programming Projects (C#, Python, Java)
 
-🎶 Music & Sound Design (Reaper)
-
-👨‍🎨 Pixel Art (Aseprite)
-
-👨‍💻 Other Programming Projects (Python, C#)
-
-🎨 Graphic Design (Inkscape)
-
+🎶 Music & Sound Design (Reaper)\
+🎞️ Video Editing (DaVinci Resolve)\
+👨‍🎨 Pixel Art (Aseprite)\
+🎨 Graphic Design (Inkscape)\
 🧊 3D Modeling (Blender)
