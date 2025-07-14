@@ -1,8 +1,10 @@
 # 👋 Hello There!
 
-📌 Personal website: https://sphyxdev.github.io/
+📌 [Personal website](https://sphyxdev.github.io/) – About me
 
-📌 Itch.io: https://sphyxdev.itch.io/
+📌 [My itch.io](https://sphyxdev.itch.io/) – Some games I made!
+
+📌 [YouTube](https://youtube.com/@SphyxDev) – I might upload some stuff every now and then
 
 ---
 
@@ -17,3 +19,7 @@
 👨‍🎨 Pixel Art (Aseprite)\
 🎨 Graphic Design (Inkscape)\
 🧊 3D Modeling (Blender)
+
+## Other Projects
+
+[GameWish](https://game-wish.web.app/) – A hypothetical (but fully functional) petition platform similar to change.org
